@@ -1,0 +1,16 @@
+items:
+  - id: 101
+    name: armor_plate
+    info: front armor plate
+  - id: 202
+    name: light_bar
+    info: blue light bar
+  - id: 303
+    name: camera
+    info: high resolution camera
+  - id: 404
+    name: wheel
+    info: large rubber wheel
+  - id: 505
+    name: motor
+    info: high torque motor
